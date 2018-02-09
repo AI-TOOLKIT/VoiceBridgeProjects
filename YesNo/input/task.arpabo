@@ -1,0 +1,41 @@
+
+\data\
+ngram 1=4
+ngram 2=8
+ngram 3=16
+
+\1-grams:
+-0.477121	</s>
+-99	<s>	-1.000000
+-0.477121	no
+-0.477121	yes
+
+\2-grams:
+-0.301030	<s> no	-0.713210
+-0.330993	<s> yes	-0.684247
+-0.477121	no </s>
+-0.477121	no no	-1.023481
+-0.477121	no yes	-1.058595
+-0.477121	yes </s>
+-0.477121	yes no	-1.058595
+-0.477121	yes yes	-1.121304
+
+\3-grams:
+-0.287242	<s> no no
+-0.377418	<s> no yes
+-0.559308	<s> yes no
+-0.183644	<s> yes yes
+-0.863780	no no </s>
+-0.433656	no no no
+-0.305626	no no yes
+-0.898894	no yes </s>
+-0.350079	no yes no
+-0.369385	no yes yes
+-0.757565	yes no </s>
+-0.379369	yes no no
+-0.389588	yes no yes
+-0.871427	yes yes </s>
+-0.394306	yes yes no
+-0.335184	yes yes yes
+
+\end\
