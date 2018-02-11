@@ -1,5 +1,7 @@
+NOTE: this folder is approximately 600 MB.
 # VoiceBridgeProjects
 Example projects for VoiceBridge - an AI-TOOLKIT Open Source C++ Speech Recognition Toolkit.
+
 
 VoiceBridge GitHub software repository: [VoiceBridge GitHub](https://github.com/AI-TOOLKIT/VoiceBridge)
 
